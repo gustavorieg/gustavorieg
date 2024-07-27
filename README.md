@@ -6,4 +6,4 @@
 
 Sou um estudante apaixonado por tecnologia, atualmente me especializando em Java. Estou em processo para me certificar OCA (Oracle Ceritificate Associate)
 
-"Transformando desafios em oportunidades de aprendizado e crescimento."
+"Não tenha medo de erros, tenha medo de não tentar"

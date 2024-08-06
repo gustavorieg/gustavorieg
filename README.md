@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi!
 
 🚀 Java | Python | PHP <br>
 📊 Mysql | Postgre | Oracle | SQL <br>

@@ -1,6 +1,6 @@
 ## Hi!
 
-🚀 Java | Python | PHP <br>
+🚀 Java | Python | PHP | TypeScript | Laravel | Angular<br>
 📊 Mysql | Postgre | Oracle | SQL <br>
 🎨 HTML | CSS | Javascript
 

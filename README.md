@@ -6,4 +6,4 @@
 
 Sou um estudante apaixonado por tecnologia, atualmente me especializando no desenvolvimento web.
 
-"Não tenha medo de erros, tenha medo de não tentar"
+"Não tenha medo de erros, tenha medo de não tentar".

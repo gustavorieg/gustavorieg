@@ -16,6 +16,7 @@ Apaixonado por tecnologia e inovação, estou me especializando no desenvolvimen
 #### 🔹 Frameworks & Bibliotecas  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)  
 
 #### 🔹 Banco de Dados  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
@@ -32,8 +33,8 @@ Apaixonado por tecnologia e inovação, estou me especializando no desenvolvimen
 ### 📌 Projetos Realizados  
 ✔ **Helpdesk** - Sistema de suporte técnico eficiente  
 ✔ **Escola Web** - Plataforma de ensino online estilo Alura  
-✔ **Gerenciamento de Estoque** - Controle de produtos e estoque
-✔ **Ferramenta para Agendamentos de Entrega** - Automação para otimizar agendamentos e gerenciamento de entregas  
+✔ **Gerenciamento de Estoque** - Controle de produtos e estoque  
+✔ **Ferramenta para Agendamentos de Entrega** - Automação para gerenciar entregas  
 ✔ **Sistema de Controle de OS** - Gestão de ordens de serviço  
 ✔ **Sistema de Checklist** - Monitoramento de processos e atividades  
 ✔ **Automações RPA** - Automação de tarefas repetitivas  
@@ -42,4 +43,8 @@ Apaixonado por tecnologia e inovação, estou me especializando no desenvolvimen
 
 💡 "Não tenha medo de errar, tenha medo de não tentar."  
 
+<!--📫 **Entre em contato:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/) -->
 
+---

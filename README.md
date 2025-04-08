@@ -31,7 +31,7 @@ Apaixonado por tecnologia e inovação, estou me especializando no desenvolvimen
 ---
 
 ### 📌 Projetos Realizados  
-✔ **Helpdesk** - Sistema de suporte técnico eficiente  
+✔ **Helpdesk** - Sistema de suporte técnico 
 ✔ **Escola Web** - Plataforma de ensino online estilo Alura  
 ✔ **Gerenciamento de Estoque** - Controle de produtos e estoque  
 ✔ **Ferramenta para Agendamentos de Entrega** - Automação para gerenciar entregas  
